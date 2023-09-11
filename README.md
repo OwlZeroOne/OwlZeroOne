@@ -97,7 +97,7 @@
   
   <h4>2023 - 2025: Software Engineering</h4>
   <p>
-    I will be returning to full-time education at Edinburgh Napier University specialising in BEng Software Engineering, starting from year 3.
+    I have returned to full-time education at Edinburgh Napier University, specialising into software engineering at entry pointb 3.
   </p>
 </div>
 <!---------------------------------------------------------------------------------------------------------------------------->  

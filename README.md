@@ -5,7 +5,9 @@
 
   <p>You have arrived at my GitHub home page. Glad to see you here! 😀</p>
 
-  <p>Here, you can find all the stuff that I have been working on in order to shine among programmers.</p>
+  <p>Here, you can find all the stuff that I have been working on in order to shine among programmers. Below, you can see my Codewars level:</p>
+
+  <img src="https://www.codewars.com/users/OwlZeroOne/badges/small">
 </div>
 <!---------------------------------------------------------------------------------------------------------------------------->
 <h1></h1> <!------------------------------------------------------------------------------------------------------------------>

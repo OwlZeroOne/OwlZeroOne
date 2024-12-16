@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 🇬🇧 | Witaj Świecie! 🇵🇱  | ¡Hola Mundo! 🇪🇸</h1> <!------------------------------>
+<h1 align="center">Hello World! | Witaj Świecie!  | ¡Hola Mundo!</h1> <!------------------------------>
 <!---------------------------------------------------------------------------------------------------------------------------->
 <div class=".intro">
   <h3>Hi there! I'm Mateusz.</h3>
@@ -98,9 +98,9 @@
     I have taken on a gap year to do some shadow work and self-development while employed by th University of Edinburgh Estates Department. In the mean time I have been continuously learning new things, such as HTML, CSS, JavaScript, more Haskell, graphic design, software design patterns, and more algorithms & data structures.
   </p>
   
-  <h4>2023 - 2025: Software Engineering</h4>
+  <h4>2023 - 2026: Software Engineering</h4>
   <p>
-    I have returned to full-time education at Edinburgh Napier University, specialising into software engineering at entry pointb 3.
+    I have returned to full-time education at Edinburgh Napier University, undertaking an integrated, undergraduate Masters degree in Software Engineering starting at year 3. In third year, I took the courses of Software Engineering, Artificial Inteligence, Data Analytics, Group Project, Computing in Contemporary Society, and Advanced Database Systems. I learned about new technologies consisting of .NET MAUI, Weka, OpenRefine, Oracle SQL, PL/SQL, Oracle XE, SQL Developer, and DataGrip. Currently, in fourth year, alongside my Honours Project, my oher courses consist of Sotware Architecture, and Concurrent and Parallel Systems. I got to use C++ and Docker for the first time.
   </p>
 </div>
 <!---------------------------------------------------------------------------------------------------------------------------->  
@@ -109,9 +109,9 @@
 <div class=".activity">
   <h3>A Little About My Activity</h3>
 
-- 🔭 I’m currently working on writing my own version of algorithms and data structures as a means to prepare to return to full-time education.
-- 🌱 I’m currently learning: C#, Python, Java, Algorithms & Data Structures, Software Design Patterns.
-- 💬 Ask me about: Object-Oriented Programming, basic programming techniques
+- 🔭 I’m currently working on my Honours Project which consists of developing a server-based physical workout scheduler using Evolutionary Algorithms
+- 🌱 I’m currently learning: C#, Python, Java, Docker.
+- 💬 Ask me about: Any programming problems
 - 😄 Pronouns: He/him/his/dude
 - ⚡ Fun fact: I am incredibly enthusiastic about my career and always satisfied with what I do.
 </div>

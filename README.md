@@ -57,7 +57,7 @@ The tool stack tables below reflect on my confidence level, relative to the tool
 
 ## My Top 5 Projects
 
-### [Microservice-Based Workout Scheduling App Using Evolutionary Computation](), May 2026
+### [Microservice-Based Workout Scheduling App Using Evolutionary Computation](https://github.com/OwlZeroOne/masters-project), May 2026
 
 A Master's group project coursework inspired by my Honours Project, extending the scope of exercise routine optimisation and placing the optimiser on a microservice.
 
@@ -75,7 +75,7 @@ A Master's group project coursework inspired by my Honours Project, extending th
 - Postman
 
 
-### [Music Royalties on Blockchain](), May 2026
+### [Music Royalties on Blockchain](https://github.com/OwlZeroOne/csn11131-cw-40663397), May 2026
 
 This Cryptography coursework explores the application of blockchain outside of just finance. A model music royalty system has been developed, inspired by Imogen Heap's efforts to publish her music and its royalties on blockchain as it eliminates the involvement of intermediaries, providing her with more control over her songs and making share distribution easier.
 
@@ -85,7 +85,7 @@ This Cryptography coursework explores the application of blockchain outside of j
 - Flask
 - Postman
 
-### [Share Trader Desktop Application](), April 2026
+### [Share Trader Desktop Application](https://github.com/OwlZeroOne/set11509-ec-40663397), April 2026
 
 This was a coursework for Enterprise Computing, which required the development of a share trading system using the Component Based Development approach, undertaking a series of component mining, qualification, categorisation, and adaptation. Each incorporated component was placed inside appropriate microservices to separate their responsibilities from one another.
 
@@ -104,7 +104,7 @@ This was a coursework for Enterprise Computing, which required the development o
   - Matplotlib
 - Docker
 
-### [Optimising PID Controllers For Lower-Limb Robots in Python Using a Hybrid Evolutionary Algorithm](), December 2025
+### [Optimising PID Controllers For Lower-Limb Robots in Python Using a Hybrid Evolutionary Algorithm](https://github.com/OwlZeroOne/set11104-asd-40663397), December 2025
 
 This is more of an inter-disciplinary research coursework, bridging control systems and evolutionary optimisation. This project attempted to model an existing PID optimiser, developed in MATLAB, to Python. The optimiser is a Hybrid GA-PSO - the combination of the Genetic Algorithm with Particle Swarm Optimisation - which performs the search of an optimum in two steps; 1, a global search is performed with GA to find a global optimum; 2, a local search is conducted with PSO to explore that part of the search space further, in search of a local optimum. A major difficulty encountered in this project was computing the objective function, consisting of indefinite integration and Laplace Transforms. The computation complexity reduced the optimiser's performance. As a result, the scope of the project was reduced to simply mimicking the simulation of the transfer functions and plotting them onto a graph.
 
@@ -118,7 +118,7 @@ This is more of an inter-disciplinary research coursework, bridging control syst
     - PySwarms
 - Jupyter Notebooks
 
-### [Honours Project: Calorie Burnout Scheduler From Exercise Using MAP-Elites](), April 2025
+### [Honours Project: Calorie Burnout Scheduler From Exercise Using MAP-Elites](https://github.com/OwlZeroOne/honours-project-public), April 2025
 
 My Honours Project focused on exploring workout scheduling methods using Evolutionary Algorithms. In this project, I focused on using MAP-Elites as the algorithm of choice as it illuminates solutions on a heatmap based on their fitness scores and a vector of secondary characteristics used as axes to the heatmap. Due to the weight of necessary research and limited resources, the algorithm optimised mainly for the difference in target and actual weights, computed using calorie expenditure models and MET values, supplied by the Adult Compendium of Physical Activities. The ultimate goal was to build a server-based algorithm, allowing it to be accessed via API, however, due to knowledge gaps, I focused solely on developing the algorithm, running experiments, and producing results.
 

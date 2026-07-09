@@ -144,7 +144,3 @@ My Honours Project focused on exploring workout scheduling methods using Evoluti
 
 - **Django:**
   - Currently exploring the highly sought-after, Python-based web development framework, which is also used by popular companies. This allows me to broaden my capabilities as a full-stack developer.
-
-## Why Hire Me?
-
-One of my strongest traits is the ability to get up to speed on unfamiliar technologies quickly. During my Cryptography coursework, for instance, I had no prior experience with Solidity, yet within a few weeks I had built a working blockchain-based royalty system. My Honours Project posed a similar challenge: I began with no background in Evolutionary Computation and developed the necessary expertise independently, primarily through academic literature and iterative experimentation. I am motivated as much by problem-solving itself as by any particular type of role, which is why I remain open to a broad range of software engineering positions rather than committing early to a narrow specialism. Whatever the specific demands of a role may be, I am confident in my ability to learn them quickly and apply them effectively.

@@ -144,3 +144,5 @@ My Honours Project focused on exploring workout scheduling methods using Evoluti
 
 - **Django:**
   - Currently exploring the highly sought-after, Python-based web development framework, which is also used by popular companies. This allows me to broaden my capabilities as a full-stack developer.
+- **CI/CD Pipeline:**
+  - Learning more about the CI/CD (Continuous Integration/Development) pipline for automated development processeses. Commonly used in agile development processes, CI/CD is a 2-part development practice where the first - CI - automates software production, while the second - CD - automates the release of software.
